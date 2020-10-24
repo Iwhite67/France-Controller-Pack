@@ -14,7 +14,7 @@ ARTCC boundary:FIZ LFBO SIV Toulouse 1:
 ARTCC boundary:FIZ LFBO SIV Toulouse 2:
 ARTCC boundary:FIZ LFBO SIV Toulouse 3:
 ARTCC boundary:FIZ LFBO SIV Toulouse 3.1:
-ARTCC boundary:FIZ LFBP SIV PyrenÈe:
+ARTCC boundary:FIZ LFBP SIV Pyren√©e:
 ARTCC boundary:FIZ LFBZ SIV Biarritz:
 ARTCC boundary:FIZ LFKB SIV Bastia:
 ARTCC boundary:FIZ LFLB SIV 1 Chambery:
@@ -131,14 +131,14 @@ ARTCC boundary:TMA LFBO TMA 4-7 Toulouse:
 ARTCC boundary:TMA LFBO TMA 4-8 Toulouse:
 ARTCC boundary:TMA LFBO TMA 5 Toulouse:
 ARTCC boundary:TMA LFBO TMA 6 Toulouse:
-ARTCC boundary:TMA LFBT TMA 1 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 2 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 3 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 4 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 5 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 6 PyrenneÈ:
-ARTCC boundary:TMA LFBT TMA 7 PyrennÈe:
-ARTCC boundary:TMA LFBT TMA 8 PyrennÈe:
+ARTCC boundary:TMA LFBT TMA 1 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 2 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 3 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 4 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 5 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 6 Pyrenne√©:
+ARTCC boundary:TMA LFBT TMA 7 Pyrenn√©e:
+ARTCC boundary:TMA LFBT TMA 8 Pyrenn√©e:
 ARTCC boundary:TMA LFBZ TMA 1 Biarritz:
 ARTCC boundary:TMA LFBZ TMA 2 Biarritz:
 ARTCC boundary:TMA LFBZ TMA 3 Biarritz:
@@ -339,7 +339,7 @@ ARTCC boundary:TMA LFRS TMA 2 Nantes:
 ARTCC boundary:TMA LFRS TMA 3 Nantes:
 ARTCC boundary:TMA LFRS TMA 4 Nantes:
 ARTCC boundary:TMA LFRS TMA 5 Nantes:
-ARTCC boundary:TMA LFSB TMA B‚le Muhlouse:
+ARTCC boundary:TMA LFSB TMA B√¢le Muhlouse:
 ARTCC boundary:TMA LFSB TMA Germany LFSB:
 ARTCC boundary:TMA LFSB TMA sectors HX LFSB:
 ARTCC boundary:TMA LFSB TMA Switzerland LFSB:
@@ -361,10 +361,10 @@ ARTCC boundary:TMA LFSI TMA 3 Saint-Dizier:
 ARTCC boundary:TMA LFSO TMA 1.3 Nancy:
 ARTCC boundary:TMA LFSO TMA 2 Nancy:
 ARTCC boundary:TMA LFSO TMA 3 Nancy:
-ARTCC boundary:TMA LFST DÈlÈg. Stuttgart nord Strasbourg:
-ARTCC boundary:TMA LFST DÈlÈg. Stuttgart sud Strasbourg:
+ARTCC boundary:TMA LFST D√©l√©g. Stuttgart nord Strasbourg:
+ARTCC boundary:TMA LFST D√©l√©g. Stuttgart sud Strasbourg:
 ARTCC boundary:TMA LFST TMA 1 Strasbourg:
-ARTCC boundary:TMA LFST TMA 1.1 DÈlÈg. Stuttgart Strasbourg:
+ARTCC boundary:TMA LFST TMA 1.1 D√©l√©g. Stuttgart Strasbourg:
 ARTCC boundary:TMA LFST TMA 1.2 Haguenau sud Strasbourg:
 ARTCC boundary:TMA LFST TMA 2.1 Strasbourg:
 ARTCC boundary:TMA LFST TMA 2.2 Strasbourg:
@@ -388,11 +388,11 @@ ARTCC low boundary:Tower CTR LFAC Calais Dunkerque Tower:
 ARTCC low boundary:Tower CTR LFAQ Albert Bray Tower:
 ARTCC low boundary:Tower CTR LFAT Le Touquet , Paris plage Tower:
 ARTCC low boundary:Tower CTR LFBA Agen la Garenne:
-ARTCC low boundary:Tower CTR LFBD CTR Bordeaux MÈrignac:
+ARTCC low boundary:Tower CTR LFBD CTR Bordeaux M√©rignac:
 ARTCC low boundary:Tower CTR LFBE CTR Bergerac:
 ARTCC low boundary:Tower CTR LFBG CTA Cognac:
 ARTCC low boundary:Tower CTR LFBG CTR Cognac:
-ARTCC low boundary:Tower CTR LFBH CTR La Rochelle Ile de RÈ:
+ARTCC low boundary:Tower CTR LFBH CTR La Rochelle Ile de R√©:
 ARTCC low boundary:Tower CTR LFBI CTR 1 Poitiers Biard:
 ARTCC low boundary:Tower CTR LFBI CTR 2 Poitiers Biard:
 ARTCC low boundary:Tower CTR LFBL Limoges Bellegarde 1:
@@ -400,7 +400,7 @@ ARTCC low boundary:Tower CTR LFBL Limoges Bellegarde 2:
 ARTCC low boundary:Tower CTR LFBL Limoges Bellegarde TWR:
 ARTCC low boundary:Tower CTR LFBO Toulouse Blagnac 1:
 ARTCC low boundary:Tower CTR LFBO Toulouse Blagnac 2:
-ARTCC low boundary:Tower CTR LFBP CTR Pau-PyrennÈe:
+ARTCC low boundary:Tower CTR LFBP CTR Pau-Pyrenn√©e:
 ARTCC low boundary:Tower CTR LFBT CTR Tarbes-Lourdes:
 ARTCC low boundary:Tower CTR LFBZ CTR Biarritz Bayonne Anglet:
 ARTCC low boundary:Tower CTR LFCR CTR 1 Rodez Marcillac 1:
@@ -412,15 +412,15 @@ ARTCC low boundary:Tower CTR LFJR CTR Angers marce:
 ARTCC low boundary:Tower CTR LFKB CTR Bastia Poiretta:
 ARTCC low boundary:Tower CTR LFKC CTR Calvi Sainte-Catherine:
 ARTCC low boundary:Tower CTR LFKF CTR Figari Sud Corse:
-ARTCC low boundary:Tower CTR LFKJ CTR Ajaccio NapolÈon Bonaparte:
+ARTCC low boundary:Tower CTR LFKJ CTR Ajaccio Napol√©on Bonaparte:
 ARTCC low boundary:Tower CTR LFLB CTR 1 Chambery:
 ARTCC low boundary:Tower CTR LFLB CTR 2 Chambery:
 ARTCC low boundary:Tower CTR LFLC CTR Clermont-Ferrand:
-ARTCC low boundary:Tower CTR LFLL CTR Saint-ExupÈry:
+ARTCC low boundary:Tower CTR LFLL CTR Saint-Exup√©ry:
 ARTCC low boundary:Tower CTR LFLP CTR Annecy Methet:
-ARTCC low boundary:Tower CTR LFLS CTR Grenoble IsËre:
+ARTCC low boundary:Tower CTR LFLS CTR Grenoble Is√®re:
 ARTCC low boundary:Tower CTR LFLU CTR Valence Chabeuil:
-ARTCC low boundary:Tower CTR LFLX CTR Ch‚teauroux Deols:
+ARTCC low boundary:Tower CTR LFLX CTR Ch√¢teauroux Deols:
 ARTCC low boundary:Tower CTR LFLY CTR Lyon Bron:
 ARTCC low boundary:Tower CTR LFMA CTR Aix-les-milles:
 ARTCC low boundary:Tower CTR LFMD CTR 1 Mandelieu:
@@ -429,13 +429,13 @@ ARTCC low boundary:Tower CTR LFMH CTR Saint-Etienne Boutheon:
 ARTCC low boundary:Tower CTR LFMI CTR Istres le tube:
 ARTCC low boundary:Tower CTR LFMK CTR Carcassonne:
 ARTCC low boundary:Tower CTR LFML CTR Provence:
-ARTCC low boundary:Tower CTR LFMN CTR 1 Nice CÙte d' azur:
-ARTCC low boundary:Tower CTR LFMN CTR 2 Nice CÙte d' azur:
+ARTCC low boundary:Tower CTR LFMN CTR 1 Nice C√¥te d' azur:
+ARTCC low boundary:Tower CTR LFMN CTR 2 Nice C√¥te d' azur:
 ARTCC low boundary:Tower CTR LFMO CTR Orange:
 ARTCC low boundary:Tower CTR LFMP CTR Perpignan Rivesaltes:
-ARTCC low boundary:Tower CTR LFMT CTR Montpellier MÈditÈrannÈe:
-ARTCC low boundary:Tower CTR LFMU CTR 1 BÈziers Vias:
-ARTCC low boundary:Tower CTR LFMU CTR 2 BÈziers Vias:
+ARTCC low boundary:Tower CTR LFMT CTR Montpellier M√©dit√©rann√©e:
+ARTCC low boundary:Tower CTR LFMU CTR 1 B√©ziers Vias:
+ARTCC low boundary:Tower CTR LFMU CTR 2 B√©ziers Vias:
 ARTCC low boundary:Tower CTR LFMV CTR Avignon:
 ARTCC low boundary:Tower CTR LFOA Avord Tower:
 ARTCC low boundary:Tower CTR LFOB Beauvais Tille Tower:
@@ -444,7 +444,7 @@ ARTCC low boundary:Tower CTR LFOE Evreux Tower:
 ARTCC low boundary:Tower CTR LFOH Le Havre Octeville Tower:
 ARTCC low boundary:Tower CTR LFOJ Orleans Bricy Tower:
 ARTCC low boundary:Tower CTR LFOK Vatry Tower:
-ARTCC low boundary:Tower CTR LFOP Rouen VallÈe de Seine Tower:
+ARTCC low boundary:Tower CTR LFOP Rouen Vall√©e de Seine Tower:
 ARTCC low boundary:Tower CTR LFOT Tours Val de Loire Tower:
 ARTCC low boundary:Tower CTR LFPG Paris 1 Tower:
 ARTCC low boundary:Tower CTR LFPG Paris 2 Tower:
@@ -462,13 +462,13 @@ ARTCC low boundary:Tower CTR LFRG Deauville Saint-Gatien Tower:
 ARTCC low boundary:Tower CTR LFRH CTR Lorient Lan-Bihoue:
 ARTCC low boundary:Tower CTR LFRK Caen Carpiquet Tower:
 ARTCC low boundary:Tower CTR LFRK CTR Cean:
-ARTCC low boundary:Tower CTR LFRL CTR LanvÈoc-Poulmic:
+ARTCC low boundary:Tower CTR LFRL CTR Lanv√©oc-Poulmic:
 ARTCC low boundary:Tower CTR LFRN CTR Rennes Saint-Jacques:
 ARTCC low boundary:Tower CTR LFRQ CTR Quimper Pluffugan:
 ARTCC low boundary:Tower CTR LFRS CTR 1 Nantes:
 ARTCC low boundary:Tower CTR LFRS CTR 2 Nantes:
 ARTCC low boundary:Tower CTR LFRZ CTR Saint-Nazaire:
-ARTCC low boundary:Tower CTR LFSB CTR B‚le Muhlouse:
+ARTCC low boundary:Tower CTR LFSB CTR B√¢le Muhlouse:
 ARTCC low boundary:Tower CTR LFSC CTR Colmar Meyenheim:
 ARTCC low boundary:Tower CTR LFSD CTR Dijon Longvic:
 ARTCC low boundary:Tower CTR LFSI Saint-Dizier Tower:
@@ -478,10 +478,8 @@ ARTCC low boundary:Tower CTR LFST CTR 1 Strasbourg Entzheim:
 ARTCC low boundary:Tower CTR LFST CTR 1.1 Brumath Strasbourg Entzheim:
 ARTCC low boundary:Tower CTR LFST CTR 2 Strasbourg Entzheim:
 ARTCC low boundary:Tower CTR LFSX CTR Luxeuil:
-ARTCC low boundary:Tower CTR LFTH HyËres le palyvestre:
+ARTCC low boundary:Tower CTR LFTH Hy√®res le palyvestre:
 ARTCC low boundary:Tower CTR LFTW CTR Nimes Garons:
-Fixes:BISBO:name
-Fixes:BISBO:symbol
 Free Text:LFAD Points VFR\N:freetext
 Free Text:LFAD Points VFR\NA:freetext
 Free Text:LFAQ Points VFR\N:freetext
@@ -1370,7 +1368,7 @@ Geo:LFBT MRVA Tarbes AMSR:
 Geo:LFBZ MRVA Biarritz AMSR:
 Geo:LFFF Prohibited area Avord P 40:
 Geo:LFFF Prohibited area Belleville sur Loire P 20:
-Geo:LFFF Prohibited area BruyËre le chatel:
+Geo:LFFF Prohibited area Bruy√®re le chatel:
 Geo:LFFF Prohibited area Cattenom P 39:
 Geo:LFFF Prohibited area Cherbourg P 81:
 Geo:LFFF Prohibited area Chinon avoine:
